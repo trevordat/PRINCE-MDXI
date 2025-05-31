@@ -10,7 +10,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
+      "description": "PRINCE-MDX~zssEtNliWWMx40VOAItH'",
       "required": true,
       "value": ""
     },  
@@ -20,12 +20,12 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Trevor",
       "required": true,
       "value": "PRINCE"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 237xxxxx",
+      "description": "256773374844",
       "required": true,
       "value": "237677224245"
     },
